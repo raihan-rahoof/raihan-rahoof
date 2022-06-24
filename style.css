@@ -1,0 +1,298 @@
+@font-face {
+  font-family:'project';
+  src: url(fonts/project50-ExpBlack.ttf);
+}
+html{
+  scroll-behavior: smooth;
+}
+.nav{
+  width: 100%;
+  height: 142px;
+  position: absolute;
+ background-color: black;
+
+}
+body{
+ margin: 0%;
+}
+.navtext{
+  position: absolute;
+    color: aliceblue;
+    font-size: 45px;
+    font-size: 38px;
+    top: -9px;
+    left: 193px;
+    font-family:'project';
+}
+.a1{
+  position: absolute;
+  top: 62px;
+  left: 79rem;
+  text-decoration: none;
+  color: #fff;
+  font-size: 27px;
+  font-family: 'project';
+}
+.a1:hover{
+  font-size: 29px;
+}
+.a2{
+  position: absolute;
+  top: 62px;
+  left: 92rem;
+  text-decoration: none;
+  color: #fff;
+  font-size: 27px;
+  font-family: 'project';
+}
+.a2:hover{
+  font-size: 29px;
+}
+.a3{
+  position: absolute;
+    top: 64px;
+    left: 106rem;
+    text-decoration: none;
+    color: #fff;
+    font-size: 27px;
+    font-family: 'project';
+}
+.a3:hover{
+  font-size: 29px;
+}
+.img1{
+  max-width: 100%;
+  height: auto;
+}
+.img2{
+  position: absolute;
+    width: 94px;
+    top: 30px;
+    left: 72px;
+}
+.wel{
+  position: absolute;
+  top: 441px;
+    left: 13rem;
+    font-family: 'project';
+    font-size: 47px;
+}
+.quote{
+  position: absolute;
+  top: 516px;
+  left: 211px;
+  font-family: sans-serif;
+
+}
+.service{
+  width: 100%;
+    position: absolute;
+    top: 79rem;
+  
+}
+.stext{
+  position: absolute;
+    right: 35rem;
+    font-family: 'project';
+    font-size: 52px;
+    top: 82rem;
+}
+.fatimg{
+  position: absolute;
+    height: 221px;
+    left: 351px;
+    top: 96rem;
+    border-radius: 10px;
+    box-shadow: 10px 5px 25px 5px black, 5px 5px 12px 2px black;
+   
+}
+.fatimg:hover{
+  cursor: pointer;
+  height: 232px;
+}
+.weight:hover{
+  cursor: pointer;
+  height: 259px;
+}
+
+.zoomba:hover{
+  cursor: pointer;
+  height: 248px;
+}
+.weight{
+  position: absolute;
+  height: 239px;
+    left: 351px;
+    top: 117rem;
+  border-radius: 10px; 
+  box-shadow: 10px 5px 25px 5px black, 5px 5px 12px 2px black;
+  
+}
+.zoomba{
+  position: absolute;
+  height: 239px;
+    left: 351px;
+    top: 139rem;
+  border-radius: 10px;
+  box-shadow: 10px 5px 25px 5px black, 5px 5px 12px 2px black;
+  
+}
+.fathd{
+ position: absolute;
+ left: 49rem;
+    top: 96rem;
+    font-size: 33px;
+    font-family: 'project';
+}
+.fatp{
+ position: absolute;
+ left: 49rem;
+    top: 99rem;
+    font-size: 27px;
+    font-family: sans-serif;
+}
+.weihd{
+  position: absolute;
+  left: 49rem;
+     top: 118rem;
+     font-size: 33px;
+     font-family: 'project';
+ }
+ .weip{
+  position: absolute;
+  left: 49rem;
+     top: 121rem;
+     font-size: 27px;
+     font-family: sans-serif;
+ }
+ .zomhd{
+  position: absolute;
+  left: 49rem;
+     top:140rem;
+     font-size: 33px;
+     font-family: 'project';
+ }
+ .zomp{
+  position: absolute;
+  left: 49rem;
+     top: 143rem;
+     font-size: 27px;
+     font-family: sans-serif;
+ }
+ .fatp:hover{
+  cursor: pointer;
+  font-size: 33px;
+  text-shadow: 2px 2px 2px grey;
+ }
+ .weip:hover{
+  cursor: pointer;
+  font-size: 33px;
+  text-shadow: 2px 2px 2px grey;
+ }
+ .zomp:hover{
+  cursor: pointer;
+  font-size: 33px;
+  text-shadow: 2px 2px 2px grey;
+ }
+ .contimg{
+  position: absolute;
+    left: 0px;
+    top: 2524px;
+    width: 1903px;
+    height: 41rem;
+ }
+ .contain{
+  position: absolute;
+    background-color: #ffffff;
+    width: 511px;
+    height: 480px;
+    left: 1207px;
+    top: 165rem;
+    opacity: 1.6;
+    border-radius: 10px;
+    box-shadow: 10px 5px 25px 5px black, 5px 5px 12px 2px black;
+ }
+ .cohead{
+  font-family: 'project';
+    position: absolute;
+    left: 77rem;
+    font-size: 43px;
+    top: 164rem;
+  
+ }
+ .form1{
+  position: absolute;
+    background-color: black;
+    left: 77rem;
+    top: 171rem;
+    width: 27pc;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    height: 34px;
+    color: #ffffff;
+    border-radius: 5px;
+    font-family: 'project';
+    padding-left: 17px;
+ }
+ .form2{
+  position: absolute;
+    background-color: black;
+    left: 77rem;
+    top: 175rem;
+    width: 27pc;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    height: 41px;
+    border-radius: 5px;
+    font-family: 'project';
+    color: #ffffff;
+    padding-left: 17px;
+ }
+ .form3{
+  position: absolute;
+    background-color: black;
+    left: 77rem;
+    top: 185rem;
+    width: 27pc;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    color: #ffffff;
+    height: 41px;
+    border-radius: 5px;
+    font-family: 'project';
+    padding-left: 17px;
+ }
+ .form4{
+  position: absolute;
+    background-color: black;
+    left: 77rem;
+    top: 180rem;
+    width: 27pc;
+    color: #ffffff;   
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    height: 41px;
+    border-radius: 5px;
+    font-family: 'project';
+    padding-left: 17px;
+ }
+ .butn{
+  position: absolute;
+    left: 87rem;
+    height: 44px;
+    width: 129px;
+    top: 190rem;
+    border-radius: 5px;
+    font-family: 'project';
+    background-color: black;
+    color: #fff;
+ }
+ 
