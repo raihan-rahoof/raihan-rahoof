@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on an ecommerce project<br><br>👯 I’m looking to collaborate on more projects<br><br>🌱 I’m currently learning django and react</p>
+<p align="left">🔭 I’m currently working on an ecommerce project<br><br>👯 I’m looking to collaborate on more projects<br><br>🌱 I’m currently focousing on django and react</p>
 
 ###
 
