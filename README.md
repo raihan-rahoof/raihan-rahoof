@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on an ecommerce project<br><br>👯 I’m looking to collaborate on more projects<br><br>🌱 I’m currently focousing on django and react</p>
+<p align="left">Hi! I'm Raihan Rahoof, a self-taught developer born and raised in Kerala. <br>I'm passionate about coding and have a strong foundation in web development. I possess hands-on experience in development and deployment, having completed over 7 projects using various technologies.<br> Python (including Django), React, and their underlying functionalities are areas of particular expertise.</p>
 
 ###
 
